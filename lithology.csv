@@ -1,0 +1,6 @@
+litology_code,litology_ru,gsi_min,gsi_mean,gsi_max,ucs_mpa_min,ucs_mpa_mean,ucs_mpa_max,ucs_mpa_std,e_gpa_mean,density_t_m3_mean,vp_m_s_mean,block_size_mean,joint_spacing_m_mean,its_mpa_mean,n_records
+carbonaceous quartz-mica calcium metasomatites,Углистые кварц-слюдистые кальциевые метасоматиты,70.0,70.0,70.0,100.0,100.0,100.0,0.0,50.0,2.79,4637.0,0.96,0.55,8.3,74
+carbonized_quartz-mica_hornfels_shists,Углистые кварц-слюдистые роговики и сланцы,75.0,75.0,75.0,110.0,110.0,110.0,0.0,60.0,2.8,5071.0,1.03,0.59,9.2,7763
+fault_zone,Зона разлома,50.0,50.0,50.0,65.0,65.0,65.0,0.0,30.0,2.65,3686.0,0.37,0.21,4.6,199
+mica-quartz_carbonate_massive_rocks,Слюдисто-кварцевые карбонатные массивные породы,85.0,85.0,85.0,135.0,135.0,135.0,0.0,70.0,2.95,5336.0,0.98,0.56,13.8,5555
+quartz-mica foliated schists,—,65.0,65.0,65.0,90.0,90.0,90.0,0.0,60.0,2.7,5164.0,0.6,0.27,8.3,6256
